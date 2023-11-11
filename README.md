@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)](https://ryansechrest.com/content/images/2022/08/nodes.gif)
+[![MasterHead][(https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)](https://ryansechrest.com/content/images/2022/08/nodes.gif)](https://media.tenor.com/FXLqR_nsPCEAAAAC/space-purple.gif)
 
 <h1 align="center">Hi 👋, I'm Rakib</h1>
 <h3 align="center">I'm A Student Engineering in AIUB</h3>
