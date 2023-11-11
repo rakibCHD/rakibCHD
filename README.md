@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rakibchowdhury&label=Profile%20views&color=0e75b6&style=flat" alt="rakibchowdhury" /> </p>
 
-<p align="left"> <a href="https://github.com/rakibchowdhury/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rakibchowdhury" alt="rakibchowdhury" /></a> </p>
+<p align="left"> <a href="https://github.com//?username=rakibchowdhury/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rakibchowdhury" alt="rakibchowdhury" /></a> </p>
 
 - 🔭 I’m currently working on **JS**
 
