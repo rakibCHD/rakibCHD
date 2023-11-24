@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Rakib</h1>
-<h3 align="center">I'm A Student of Engineering at AIUB</h3>
+<h3 align="center">I'm A Student of Engineering in AIUB</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rakibchd&label=Profile%20views&color=0e75b6&style=flat" alt="rakibchd" /> </p>
