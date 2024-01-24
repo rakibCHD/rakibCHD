@@ -15,7 +15,6 @@
 - ✆  Contact with me: **+8801795775466**
 
 <p align="left"> <img src="https://news.yale.edu/sites/default/files/styles/featured_media/public/ynews-student-chatgpt.jpg?itok=ko-lVivK&c=a75e254fe1da31f2732f6b0d7bce1413" width="900" height="450" /></p>
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
