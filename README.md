@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Rakib</h1>
 <h3 align="center">I'm A Student of Engineering in AIUB</h3>
 
-<p align="center"> <img src="https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/American_International_University-Bangladesh_Monogram.svg/800px-American_International_University-Bangladesh_Monogram.svg.png" width="70" height="70" /> </p>
+<p align="center"> <a href="https://www.aiub.edu" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/American_International_University-Bangladesh_Monogram.svg/800px-American_International_University-Bangladesh_Monogram.svg.png" width="70" height="70" /> </a> </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rakibchd&label=Profile%20views&color=0e75b6&style=flat" alt="rakibchd" /> </p>
 
 <p align="left"> <a href="https://github.com//?username=rakibchd/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rakibchd" alt="rakibchd" /></a> </p>
