@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://github.com//?username=rakibchd/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rakibchd" alt="rakibchd" /></a> </p>
 
-- 🔭 I’m currently working on **JS**
+- 🔭 I’m currently working on **JavaScript**
 
 - 🌱 I’m currently learning **.net**
 
