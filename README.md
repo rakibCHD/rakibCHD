@@ -31,7 +31,7 @@
     <a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://iconape.com/wp-content/files/ie/112455/svg/visual-studio-code-1.svg" alt="VS_code" width="40" height="40"/> </a>
    <a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Visual_Studio_Icon_2019.svg/2060px-Visual_Studio_Icon_2019.svg.png" alt="VS" width="40" height="40"/> </a>
   <a href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads" target="_blank" rel="noreferrer"> <img src="https://pbs.twimg.com/profile_images/1197542581196009472/MnSiG4QY_400x400.jpg" alt="sql" width="45" height="45"/> </a>
-    <a href="https://www.opengl.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Opengl-logo.svg" alt="Opengl" width="70" height="70"/> </a>
+    <a href="https://www.opengl.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Opengl-logo.svg" alt="Opengl" width="65" height="65"/> </a>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rakibchd&show_icons=true&bg_color=e4e2e2&locale=en&layout=compact" alt="rakibchd" /></p>
