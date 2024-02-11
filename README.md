@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rakibchd&label=Profile%20views&color=0e75b6&style=flat" alt="rakibchd" /> </p>
 
-<p align="left"> <a href="https://github.com//?username=rakibchd/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rakibchd" alt="rakibchd" /></a> </p>
+<p align="left"> <a href="https://github.com//?username=rakibchd/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rakibchd&theme=nord" alt="rakibchd" /></a> </p>
 
 - 🔭 I’m currently working on **Java**
 
