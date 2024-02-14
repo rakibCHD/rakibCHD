@@ -26,6 +26,7 @@
   <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="45" height="45"/> </a>
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html" width="45" height="45"/> </a>
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="45" height="45"/> </a>
+  <a href="https://platformio.org/" target="_blank" rel="noreferrer"> <img src="https://static-00.iconduck.com/assets.00/platformio-icon-425x512-4opza9ui.png" alt="platformio" width="45" height="45"/> </a>
   <a href="https://www.w3schools.com/sql/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" alt="sql" width="45" height="45"/> </a>
     <a href="https://www.opengl.org/" target="_blank" rel="noreferrer"> <img src="https://i0.wp.com/accidentalastro.com/wp-content/uploads/2023/04/OpenGLVulkan.jpg?w=500&ssl=1" alt="Opengl" width="45" height="45"/> </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
