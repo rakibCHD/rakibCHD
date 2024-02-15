@@ -3,7 +3,7 @@
 <h3 align="center">I'm A Student of Engineering in AIUB</h3>
 
 
-<p align="center"> <a href="https://www.aiub.edu" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/American_International_University-Bangladesh_Monogram.svg/800px-American_International_University-Bangladesh_Monogram.svg.png" width="70" height="70" /> </a> </p>
+<p align="center"> <a href="https://www.aiub.edu" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/American_International_University-Bangladesh_Monogram.svg/800px-American_International_University-Bangladesh_Monogram.svg.png" width="80" height="80" /> </a> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rakibchd&label=Profile%20views&color=0e75b6&style=flat" alt="rakibchd" /> </p>
 
@@ -17,7 +17,9 @@
 - ✆  Contact with me: **+8801795775466**
 
 <p align="left"> <img src="https://news.yale.edu/sites/default/files/styles/featured_media/public/ynews-student-chatgpt.jpg?itok=ko-lVivK&c=a75e254fe1da31f2732f6b0d7bce1413" width="900" height="450" /></p>
+
 <h3 align="left">Languages and Tools:</h3>
+
 <p align="left">
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="45" height="45"/> </a>
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="45" height="45"/> </a>
