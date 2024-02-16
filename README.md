@@ -18,9 +18,9 @@
 
 <p align="left"> <img src="https://news.yale.edu/sites/default/files/styles/featured_media/public/ynews-student-chatgpt.jpg?itok=ko-lVivK&c=a75e254fe1da31f2732f6b0d7bce1413" width="900" height="450" /></p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="center">Languages and Tools:</h3>
 
-<p align="left">
+<p align="center">
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="45" height="45"/> </a>
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="45" height="45"/> </a>
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="45" height="45"/> </a> 
@@ -33,7 +33,7 @@
     <a href="https://www.opengl.org/" target="_blank" rel="noreferrer"> <img src="https://i0.wp.com/accidentalastro.com/wp-content/uploads/2023/04/OpenGLVulkan.jpg?w=500&ssl=1" alt="Opengl" width="45" height="45"/> </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
  </p>
-  <p>
+ <p align="center">
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="45" height="45"/> </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="45" height="45"/> </a>
     <a href="https://visualstudio.microsoft.com/#vscode-section" target="_blank" rel="noreferrer"> <img src="https://iconape.com/wp-content/files/ie/112455/svg/visual-studio-code-1.svg" alt="VS_code" width="45" height="45"/> </a>
@@ -46,4 +46,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rakibchd&show_icons=true&bg_color=e4e2e2&locale=en" alt="rakibchd" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rakibchd&theme=prussian" alt="rakibchd" /></p>
+<p align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rakibchd&theme=prussian" alt="rakibchd" /></p>
