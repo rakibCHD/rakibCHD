@@ -12,7 +12,7 @@
 - 📫 How to reach me **rakibchowdhury2700@gmail.com**
 - ✆  Contact with me: **+8801795775466**
 
-<p align="left"> <img src="https://news.yale.edu/sites/default/files/styles/featured_media/public/ynews-student-chatgpt.jpg?itok=ko-lVivK&c=a75e254fe1da31f2732f6b0d7bce1413" width="900" height="450" /></p>
+<p align="left"> <img src="https://i.pinimg.com/736x/5e/63/7f/5e637f12dfaa24d8ad60b74758ecf7a7.jpg" width="900" height="450" /></p>
 
 <h1 align="center">Languages and Tools:</h3>
 
