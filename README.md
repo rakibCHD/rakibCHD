@@ -30,11 +30,16 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
  </p>
  <p align="center">
+     <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Rust_programming_language_black_logo.svg" alt="rust" width="45" height="45"/> </a>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="45" height="45"/> </a>
+     <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png" alt="kotlin" width="45" height="45"/> </a>
+ <a href="https://www.w3schools.com/css/default.asp" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBS-Jftq7EiLZDB75AVtZMxHob-mpwPgM9FQ&s" alt="CSS" width="45" height="45"/> </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="45" height="45"/> </a>
     <a href="https://visualstudio.microsoft.com/#vscode-section" target="_blank" rel="noreferrer"> <img src="https://iconape.com/wp-content/files/ie/112455/svg/visual-studio-code-1.svg" alt="VS_code" width="45" height="45"/> </a>
+     <a href="https://golang.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Go_Logo.svg" alt="go" width="45" height="45"/> </a>
    <a href="https://visualstudio.microsoft.com/#vs-section" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Visual_Studio_Icon_2019.svg/2060px-Visual_Studio_Icon_2019.svg.png" alt="VS" width="45" height="45"/> </a>
     <a href="https://www.st.com/en/development-tools/stm32cubeide.html" target="_blank" rel="noreferrer"> <img src="https://www.disk91.com/wp-content/uploads/2020/06/stm32-cube-ide.png" alt="stm32" width="45" height="45"/> </a>
+   <a href="https://www.perl.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Perl_logo.svg" alt="perl" width="45" height="45"/> </a>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rakibchd&show_icons=true&bg_color=e4e2e2&locale=en&layout=compact" alt="rakibchd" /></p>
