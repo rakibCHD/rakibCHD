@@ -5,7 +5,7 @@
 
 <p align="center"> <a href="https://www.aiub.edu" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/American_International_University-Bangladesh_Monogram.svg/800px-American_International_University-Bangladesh_Monogram.svg.png" width="80" height="80" /> </a> </p>
 
-- 🔭 I’m currently working on **Human-Computer Interaction**
+- 🔭 I’m currently working on **Human-Computer-Interaction**
 
 - 🌱 I’m currently learning **.net**
 
