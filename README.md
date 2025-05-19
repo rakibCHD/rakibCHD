@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning **.net**
 
 - 📫 How to reach me **rakibchowdhury2700@gmail.com**
-- ✆  Contact with me: **+8801795775466**
+- ✆  Contact with me(Whatsapp|Text|Call): **+8801795775466**
 
 <p align="left"> <img src="https://i.pinimg.com/736x/5e/63/7f/5e637f12dfaa24d8ad60b74758ecf7a7.jpg" width="900" height="1100" /></p>
 
