@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Human-Computer-Interaction**
 
-- 🌱 I’m currently learning **.net**
+- 🌱 I’m currently learning **Software And Hardware Communication**
 
 - 📫 How to reach me **rakibchowdhury2700@gmail.com**
 - ✆  Contact with me(Whatsapp/Text/Call): **+8801795775466**
